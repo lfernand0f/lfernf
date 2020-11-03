@@ -8,7 +8,7 @@
 
 ## Me
 
-🔭 I’m currently working on PayGo Pagamentos
+🔭 I’m currently working on Idwall
 
 🌱 I’m currently learning Functional Programming
 
